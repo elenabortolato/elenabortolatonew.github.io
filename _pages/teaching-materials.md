@@ -6,15 +6,15 @@ header:
 ---
 
 ## <i class="fas fa-fw fa-code" aria-hidden="true"></i> Poli 891: Lab for Advanced Political Data Science
-{: #political-data-science }
-- [Programming Style](/files/html/teaching-materials/R_Style_Guide)
-- [Functional Programming in R](/files/html/teaching-materials/Functional_Programming)
-- [Multilevel Linear Models](/files/html/teaching-materials/Multilevel_Linear_Models)
-  - [Individual Exercise Solution](/files/html/teaching-materials/Multilevel_Linear_Models_Key.html)
-- [Multilevel Generalized Linear Models](/files/html/teaching-materials/Multilevel_GLMs)
-  - [Individual Exercise Solution](/files/html/teaching-materials/Multilevel_GLMs_Key.html)
-- [Multilevel Models for Correlated Data](/files/html/teaching-materials/NLME)
-- [Multilevel Regression with Poststratification](/files/html/teaching-materials/MRP)
+{: #stattistics }
+#- [Programming Style](/files/html/teaching-materials/R_Style_Guide)
+#- [Functional Programming in R](/files/html/teaching-materials/Functional_Programming)
+#- [Multilevel Linear Models](/files/html/teaching-materials/Multilevel_Linear_Models)
+ #- [Individual Exercise Solution](/files/html/teaching-materials/Multilevel_Linear_Models_Key.html)
+#- [Multilevel Generalized Linear Models](/files/html/teaching-materials/Multilevel_GLMs)
+ #- [Individual Exercise Solution](/files/html/teaching-materials/Multilevel_GLMs_Key.html)
+#- [Multilevel Models for Correlated Data](/files/html/teaching-materials/NLME)
+#- [Multilevel Regression with Poststratification](/files/html/teaching-materials/MRP)
   - [Individual Exercise Solution](/files/html/teaching-materials/MRP_key.html)
 - [High Performance Computing](/files/html/teaching-materials/Cluster)
 - [Working with Strings](/files/html/teaching-materials/Strings)
