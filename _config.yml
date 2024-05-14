@@ -79,7 +79,7 @@ analytics:
   google:
     tracking_id          : 
   goatcounter:
-    code		 : jayrobwilliams
+    code		 : elenabortolato
 
 
 # Site Author
@@ -90,7 +90,7 @@ author:
   location         :
   employer         :
   pubmed           :
-  orcid            : "http://orcid.org/0000-0001-9259-3883"
+  orcid            : "https://orcid.org/0000-0001-6744-3090"
   googlescholar    : "https://scholar.google.com/citations?user=wYPuUzMAAAAJ&hl=fr&oi=ao"
   email            : "elena.bortolato@unipd.it"
   researchgate     : "https://www.researchgate.net/profile/Elena-Bortolato"
@@ -258,9 +258,9 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-# paginate: 5 # amount of posts to show
+# paginate: 1 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Rome # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
