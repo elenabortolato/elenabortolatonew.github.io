@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a post doctoral research fellow in Statistics working with prof. Anotonio Canale in Padova
+Welcome! I am a post doctoral research fellow in Statistics working with prof. Antonio Canale in Padova
 researcher with the [Research fellow UniPD](https://www.stat.unipd.it/dipartimento/persone/research-fellows)
  
 I earned my PhD in Statistics from the University of Padova in May 2024
