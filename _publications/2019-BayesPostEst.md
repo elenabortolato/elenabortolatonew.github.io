@@ -1,10 +1,10 @@
 ---
-title: "BayesPostEst: An R Package to Generate Postestimation Quantities for Bayesian MCMC Estimation"
+title: "On Approximate Robust Confidence Distributions"
 collection: publications
-permalink: /publication/2019-bayespostest
-date: 2019-10-01
-venue: 'Journal of Open Source Software'
-paperurl: '/files/pdf/research/BayesPostEst.pdf'
-link: 'https://doi.org/10.21105/joss.01722'
-citation: 'Scogin, Shana, Johannes Karreth, Andreas Beger, and Rob Williams. 2019. &quot;BayesPostEst: An R Package to Generate Postestimation Quantities for Bayesian MCMC Estimation.&quot; <i>Journal of Open Source Software</i> 4(42): 1722. doi:10.21105/joss.01722'
+permalink: /publication/2023RobustCD
+date: 2023-04-15
+venue: 'Journal of Econometrics and Statistics'
+paperurl: '/files/pdf/research/2023RobustCD.pdf'
+link: 'https://www.sciencedirect.com/science/article/pii/S2452306223000321'
+citation: 'Bortolato Elena, Ventura Laura. 2023 &quot;  On Approximate Robust Confidence Distributions.&quot; <i>Journal of Econometrics and Statistics</i> to appear . &quot
 ---
