@@ -2,7 +2,7 @@
 title: "On Approximate Robust Confidence Distributions"
 collection: publications
 permalink: /publication/2023-RobustCD
-date: 2023-04-15
+date: 2023-04-07
 venue: 'Journal of Econometrics and Statistics'
 paperurl: '/files/pdf/research/2023RobustCD.pdf'
 link: 'https://www.sciencedirect.com/science/article/pii/S2452306223000321'
