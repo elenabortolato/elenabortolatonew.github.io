@@ -1,7 +1,7 @@
 ---
 title: "On Approximate Robust Confidence Distributions"
 collection: publications
-permalink: /publication/2023RobustCD
+permalink: /publication/2023-RobustCD
 date: 2023-04-15
 venue: 'Journal of Econometrics and Statistics'
 paperurl: '/files/pdf/research/2023RobustCD.pdf'
